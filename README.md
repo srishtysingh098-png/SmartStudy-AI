@@ -1,0 +1,2 @@
+# SmartStudy-AI
+Srishty Singh
