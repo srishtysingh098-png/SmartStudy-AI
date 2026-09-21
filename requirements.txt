@@ -1,0 +1,5 @@
+SmartStudy-AI/
+│
+├── smart_study.py
+├── requirements.txt
+└── README.md
